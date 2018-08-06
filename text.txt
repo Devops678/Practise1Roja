@@ -2,3 +2,4 @@ hi
 this is git
 we are practising git 
 intialising git
+this class is devops
